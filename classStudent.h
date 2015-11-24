@@ -1,3 +1,4 @@
+/*This is a head file about the class Student for c++.*/
 #include<iostream>
 class Student
 {
